@@ -12,7 +12,7 @@ Transfer the DNA of an existing MetaHuman to your custom avatar with **just a si
 $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2Ada.dna
 ```
 - $1: Reference DNA file
-- $2: Custom mesh path (make sure the up axis is "Y" and provide **head/left_eye/right_eye** at least, more mesh -> better result)
+- $2: Custom mesh path (make sure that the up axis is "Y" and provide **head/left_eye/right_eye** at least, more mesh -> better result)
 - $3: Transferred DNA file
 
 ## Examples
