@@ -27,7 +27,7 @@ $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2A
       <img src=assets/Ada.png>
     </td>
     <td >
-     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/blob/main/assets/Ada.mp4" controls preload></video>
+     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/assets/10248980/109c3cac-596d-4b0f-bc54-039cba3e7933" controls preload></video>
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2A
       <img src=assets/Bernice.png>
     </td>
     <td >
-     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/blob/main/assets/Bernice2Ada.mp4" controls preload></video>
+     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/assets/10248980/ae2fbbb3-b427-4c01-8820-db332f10e3bb" controls preload></video>
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@ $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2A
       <img src=assets/Gavin.png>
     </td>
     <td >
-     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/blob/main/assets/Gavin2Ada.mp4" controls preload></video>
+     <video src="https://github.com/boboyiyi/metahuman_dna_transfer/assets/10248980/da6b5eee-5b25-4159-ad06-58109b9ea247" controls preload></video>
     </td>
   </tr>
 </table>
