@@ -20,7 +20,7 @@ $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2A
 <table class="center">
   <tr style="font-weight: bolder;text-align:center;">
         <td width="37%">Ada</td>
-        <td width="63%">Original Ada talking video</td>
+        <td width="63%">The original Ada talking video</td>
   </tr>
   <tr>
     <td>
