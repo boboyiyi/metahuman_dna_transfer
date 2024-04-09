@@ -62,5 +62,9 @@ $ .\dna_transfer.exe .\assets\example\Bernice.dna .\assets\example\Ada Bernice2A
   </tr>
 </table>
 
+## TODO
+
+[ ] Technical description 
+
 ## Reference
 - [MetaHuman-DNA-Calibration](https://github.com/EpicGames/MetaHuman-DNA-Calibration)
